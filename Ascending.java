@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class Pentagon {
+public class  Ascending {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		// Prompt the user to enter three integers
